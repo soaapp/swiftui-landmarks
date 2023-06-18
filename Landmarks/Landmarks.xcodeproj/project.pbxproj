@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		EF1135A82A3F7DB600BBEF1A /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF1135A72A3F7DB600BBEF1A /* PageControl.swift */; };
 		EF78661F2A2E47BD006CC728 /* FavoriteButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF78661E2A2E47BD006CC728 /* FavoriteButton.swift */; };
 		EF9486292A26E7300070EE42 /* LandmarksApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF9486282A26E7300070EE42 /* LandmarksApp.swift */; };
 		EF94862B2A26E7300070EE42 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EF94862A2A26E7300070EE42 /* ContentView.swift */; };
@@ -65,6 +66,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		EF1135A72A3F7DB600BBEF1A /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 		EF78661E2A2E47BD006CC728 /* FavoriteButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FavoriteButton.swift; sourceTree = "<group>"; };
 		EF9486252A26E7300070EE42 /* Landmarks.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Landmarks.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EF9486282A26E7300070EE42 /* LandmarksApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LandmarksApp.swift; sourceTree = "<group>"; };
@@ -225,6 +227,7 @@
 				EF9FACDA2A3528200012E333 /* CategoryRow.swift */,
 				EF9FACDC2A3655AF0012E333 /* CategoryItem.swift */,
 				EF9FACF02A3CDD6D0012E333 /* FeatureCard.swift */,
+				EF1135A72A3F7DB600BBEF1A /* PageControl.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -434,6 +437,7 @@
 				EF9486552A296C790070EE42 /* MapView.swift in Sources */,
 				EFE668782A2E9C4B0055EE5E /* GraphCapsule.swift in Sources */,
 				EF9486292A26E7300070EE42 /* LandmarksApp.swift in Sources */,
+				EF1135A82A3F7DB600BBEF1A /* PageControl.swift in Sources */,
 				EF78661F2A2E47BD006CC728 /* FavoriteButton.swift in Sources */,
 				EF9FACDD2A3655AF0012E333 /* CategoryItem.swift in Sources */,
 				EFE6687A2A2E9C4B0055EE5E /* HikeDetail.swift in Sources */,
